@@ -13,9 +13,9 @@ p
   }
   .bgm
   {
-    left: 3px;
-    top: 3px;
-    position: absolute;
+  position: absolute;
+  left: 2px;
+  top: 2px;
     border: 5px outset red;
   }
   .listentext
