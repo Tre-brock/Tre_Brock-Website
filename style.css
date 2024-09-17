@@ -1,5 +1,5 @@
 body {
-  background-image: "/files/bg.svg";
+  background-image: url('/files/svg.svg');
   background-size: cover;
 }
 h1 {
