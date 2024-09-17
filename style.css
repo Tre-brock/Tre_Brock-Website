@@ -1,23 +1,23 @@
 body {
-  background-color: cyan;
+  background-color: rgb(19, 19, 19);
   background-size: cover;
 }
 h1 {
   text-align: center;
-  color: rgb(0, 0, 0)
+  color: rgb(255, 255, 255)
 }
 h2 {
   text-align: center;
-  color: rgb(0, 0, 0)
+  color: rgb(255, 255, 255)
 }
 h3 {
   text-align: center;
-  color: rgb(0, 0, 0)
+  color: rgb(255, 255, 255)
 }
 p
   { 
     text-align: center;
-    color: rgb(0, 0, 0)
+    color: rgb(255, 255, 255)
   }
   .bgm
   {
