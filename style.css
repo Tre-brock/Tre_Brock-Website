@@ -1,8 +1,14 @@
 body {
-  background-image: url('/files/svg.svg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background: linear-gradient(138deg, #00ffd4, #00b9ff, #ff00f5, #ff006e, #ffc100);
+  background-size: 1000% 1000%;
+
+  animation: Tre 39s ease infinite;
+}
+
+@keyframes Tre {
+  0%{background-position:0% 7%}
+  50%{background-position:100% 94%}
+  100%{background-position:0% 7%}
 }
 h1 {
   text-align: center;
