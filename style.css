@@ -29,15 +29,16 @@ p
   }
 .container {
   margin: auto;
-  width: 430;
+  width: 660;
 }
 .main
  {
   margin: auto;
+  left: 30;
   width: 200px;
   outline: dashed 3px rgb(0, 0, 0);
   position: relative;
-  float: right;
+  float: left;
  }  
 .tde
  {
@@ -50,7 +51,7 @@ float: left;
  .cc
  {
    top: 30;
-   left: 30;
+   left: 60;
    margin: auto;
    width: 88px;
    position: relative;
@@ -61,11 +62,31 @@ float: left;
  .lp
 {
   top: 30;
-  left: 55;
+  left: 83;
   margin: auto;
   width: 88px;
   position: relative;
   height: 31px;
   outline: dashed 3px rgb(133, 133, 133);
+  float: left;
+}
+.dance
+{
+  top: 60;
+  left: 100;
+  margin: auto;
+  width: 120px;
+  text-align: center;
+  position: relative;
+  outline: dashed 3px rgb(251, 255, 0);
+  float: left;
+}
+.tv
+{
+  left: 60;
+  margin: auto;
+  width: 200px;
+  position: relative;
+  outline: dashed 3px rgb(214, 0, 0);
   float: left;
 }
