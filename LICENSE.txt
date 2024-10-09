@@ -4,7 +4,6 @@ Website source repo is here: https://github.com/Tre-brock/Tre_Brock-Website
 Exeptions include:
 https://trebrock.net/files/bill2.gif
 https://trebrock.net/files/linux.gif
-https://trebrock.net/files/Serenity.png
 ----------------------------------------------------------------------
 https://creativecommons.org/licenses/by-sa/4.0/
 
