@@ -27,65 +27,67 @@ p
     text-align: center;
     color: rgb(0, 0, 0)
   }
+mark
+  { 
+    background-color: #00ffe8;
+  }
 .container {
   margin: auto;
   width: 660;
 }
-.main
+.tde
+ {
+background: rgb(50,93,181);
+background: linear-gradient(31deg, rgba(50,93,181,1) 0%, rgba(62,118,203,1) 35%, rgba(207,228,244,1) 100%); 
+margin: auto;
+width: 200px;
+position: relative;
+outline: outset 3px blue;
+float: left;
+ } 
+ .main
  {
   margin: auto;
   left: 30;
   width: 200px;
-  outline: dashed 3px rgb(0, 0, 0);
+  position: relative;
+  float: left;
+ } 
+ .enjoy
+ {
+  background: #fbff00;
+  margin: auto;
+  width: 200px;
+  outline: ridge 3px rgb(0, 0, 0);
   position: relative;
   float: left;
  }  
-.tde
- {
-margin: auto;
-width: 200px;
-position: relative;
-outline: dashed 3px blue;
-float: left;
- } 
- .cc
- {
-   top: 30;
-   margin: auto;
-   width: 88px;
-   position: relative;
-   height: 31px;
-   outline: dashed 3px rgb(133, 133, 133);
-   float: left;
- }
- .lp
-{
-  top: 30;
-  left: 33;
-  margin: auto;
-  width: 88px;
-  position: relative;
-  height: 31px;
-  outline: dashed 3px rgb(133, 133, 133);
-  float: right;
-}
-.dance
-{
-  top: 60;
-  left: 30;
-  margin: auto;
-  width: 120px;
-  text-align: center;
-  position: relative;
-  outline: dashed 3px rgb(251, 255, 0);
-  float: right;
-}
 .tv
 {
+  background: url('/files/backround1.gif');
   left: 60;
   margin: auto;
   width: 200px;
   position: relative;
-  outline: dashed 3px rgb(214, 0, 0);
+  outline: groove 3px rgb(214, 0, 0);
   float: left;
 }
+.cc
+{
+  margin: auto;
+  top: 30px;
+  position: relative;
+  float: left;
+  outline: dashed 3px rgb(133, 133, 133);
+
+}
+ .lp
+{
+  margin: auto;
+  top: 30px;
+  left: 25px;
+  position: relative;
+  float: left;
+  outline: dashed 3px rgb(190, 190, 190);
+}
+
