@@ -81,12 +81,22 @@ float: left;
   outline: dashed 3px rgb(133, 133, 133);
 
 }
- .lp
+.lp
 {
   margin: auto;
   top: 30px;
   left: 25px;
   position: relative;
+  float: left;
+  outline: dashed 3px rgb(190, 190, 190);
+}
+.contact
+{
+  margin: auto;
+  top: 60px;
+  left: 0px;
+  background: rgb(121,74,255);
+  background: linear-gradient(180deg, rgba(121,74,255,1) 0%, rgba(145,115,255,1) 47%, rgba(188,164,255,1) 100%);   position: relative;
   float: left;
   outline: dashed 3px rgb(190, 190, 190);
 }
