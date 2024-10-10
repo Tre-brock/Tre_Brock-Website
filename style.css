@@ -31,10 +31,17 @@ mark
   { 
     background-color: #00ffe8;
   }
-.container {
-  margin: auto;
-  width: 660;
-}
+  .container {
+    margin: auto;
+    width: 660;
+  }
+ .left
+  {
+    margin: auto;
+    width: 200px;
+    position: relative;
+    float: left;
+  }
 .tde
  {
 background: rgb(50,93,181);
@@ -45,7 +52,7 @@ position: relative;
 outline: outset 3px blue;
 float: left;
  } 
- .main
+ .middle
  {
   margin: auto;
   left: 30;
