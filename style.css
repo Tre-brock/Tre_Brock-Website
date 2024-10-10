@@ -33,7 +33,7 @@ mark
   }
   .container {
     margin: auto;
-    width: 660;
+    width: 660px;
   }
  .left
   {
@@ -55,7 +55,7 @@ float: left;
  .middle
  {
   margin: auto;
-  left: 30;
+  left: 30px;
   width: 200px;
   position: relative;
   float: left;
@@ -72,7 +72,7 @@ float: left;
 .tv
 {
   background: url('/files/backround1.gif');
-  left: 60;
+  left: 60px;
   margin: auto;
   width: 200px;
   position: relative;
@@ -83,19 +83,22 @@ float: left;
 {
   margin: auto;
   top: 30px;
+  left: 56.5px;
   position: relative;
   float: left;
   outline: dashed 3px rgb(133, 133, 133);
 
 }
+
 .lp
 {
   margin: auto;
   top: 30px;
-  left: 25px;
+  left: 34.5px;
+  width: 125px;
   position: relative;
   float: left;
-  outline: dashed 3px rgb(190, 190, 190);
+  outline: dashed 3px #03261d;
 }
 .contact
 {
