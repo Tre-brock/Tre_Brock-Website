@@ -89,20 +89,28 @@ float: left;
 .cc
 {
   margin: auto;
-  top: 30px;
+  top: 36px;
+  left: -31px;
+  position: relative;
+  float: left;
+  outline: dashed 3px rgb(133, 133, 133);
+}
+.gnu
+{
+  margin: auto;
+  top: 109px;
   left: 56.5px;
   position: relative;
   float: left;
   outline: dashed 3px rgb(133, 133, 133);
-
 }
 .apps
 {
   margin: auto;
-  top: 61px;
+  top: 146px;
   position: relative;
   float: left;
-  width: 200px;
+  width: 350px;
   background: #f26711;
   outline: groove 3px #aa4400;
 
