@@ -42,7 +42,7 @@ mark
     position: relative;
     float: left;
   }
-.tde
+.laptop
  {
 background: rgb(50,93,181);
 background: linear-gradient(31deg, rgba(50,93,181,1) 0%, rgba(62,118,203,1) 35%, rgba(207,228,244,1) 100%); 
@@ -51,6 +51,7 @@ width: 200px;
 position: relative;
 outline: outset 3px blue;
 float: left;
+border-radius: 60px;
  } 
  .middle
  {
@@ -93,7 +94,6 @@ float: left;
   left: -31px;
   position: relative;
   float: left;
-  outline: dashed 3px rgb(133, 133, 133);
 }
 .gnu
 {
@@ -102,7 +102,6 @@ float: left;
   left: 56.5px;
   position: relative;
   float: left;
-  outline: dashed 3px rgb(133, 133, 133);
 }
 .apps
 {
@@ -111,9 +110,9 @@ float: left;
   position: relative;
   float: left;
   width: 350px;
+  height: 130px;
   background: #f26711;
   outline: groove 3px #aa4400;
-
 }
 .lp
 {
@@ -134,4 +133,12 @@ float: left;
   background: linear-gradient(180deg, rgba(121,74,255,1) 0%, rgba(145,115,255,1) 47%, rgba(188,164,255,1) 100%);   position: relative;
   float: left;
   outline: inset 3px rgb(136, 0, 255);
+}
+.paypal
+{
+  margin: auto;
+  top: 10px;
+  position: relative;
+  float: left;
+  left: -90px;
 }
