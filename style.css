@@ -31,10 +31,6 @@ mark
   { 
     background-color: #00ffe8;
   }
-form {
-  margin: auto;
-  display: table;
-  } 
   .container {
     margin: auto;
     width: 660px;
@@ -120,10 +116,13 @@ border-radius: 60px;
 }
 .lp
 {
-  top: 32px;
+  margin: auto;
+  top: 30px;
   left: 34.5px;
+  width: 125px;
   position: relative;
   float: left;
+  outline: groove 3px #03261d;
 }
 .contact
 {
@@ -143,7 +142,7 @@ border-radius: 60px;
   float: left;
   left: -90px;
 }
-.deb
+.powerdeb
 {
   margin: auto;
   top: -65px;
