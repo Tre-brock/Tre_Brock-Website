@@ -100,15 +100,6 @@ float: left;
   position: relative;
   float: right;
 }
-.search
-{
-  margin: auto;
-  top: 47px;
-  left: 54px;
-  z-index: 9;
-  position: relative;
-  float: left;
-}
 .apps
 {
   margin: auto;
