@@ -33,7 +33,7 @@ mark
   }
   .container {
     margin: auto;
-    width: 660px;
+    width: 652px;
   }
  .left
   {
@@ -104,7 +104,7 @@ float: left;
 {
   margin: auto;
   top: 47px;
-  left: 57px;
+  left: 54px;
   z-index: 9;
   position: relative;
   float: left;
@@ -160,8 +160,8 @@ float: left;
   top: 100px;
   left: 50px;
   width: 367px;
-  height: 132px;
-  background: rgb(111, 255, 111);
+  height: 136px;
+  background: rgb(255, 255, 255);
   position: relative;
   float: left;
   outline: inset 3px rgb(255, 251, 0);
