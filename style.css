@@ -96,7 +96,7 @@ float: left;
 .gnu
 {
   margin: auto;
-  top: 76;
+  top: 76px;
   position: relative;
   float: right;
 }
@@ -104,7 +104,7 @@ float: left;
 {
   margin: auto;
   top: 20px;
-  left: -3;
+  left: -3px;
   position: relative;
   float: left;
 }
