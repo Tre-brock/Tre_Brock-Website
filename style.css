@@ -79,7 +79,7 @@ float: left;
 }
 .tv
 {
-  background: url('/files/backround1.gif');
+  background: url('files/backround1.gif');
   margin: auto;
   width: 200px;
   position: relative;
