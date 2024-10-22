@@ -77,6 +77,16 @@ float: left;
   position: relative;
   float: left;
 }
+.font
+{
+  background-color: aquamarine;
+  margin: auto;
+  width: 300px;
+  top: 40px;
+  position: relative;
+  outline: groove 3px rgb(214, 0, 185);
+  float: left;
+}
 .tv
 {
   background: url('files/backround1.gif');
