@@ -31,9 +31,10 @@ mark
   { 
     background-color: #00ffe8;
   }
-  .container {
+.container {
     margin: auto;
-    width: 652px;
+    width: 660px;
+    height: 1012px;
   }
  .left
   {
@@ -47,10 +48,13 @@ mark
 background: rgb(50,93,181);
 background: linear-gradient(31deg, rgba(50,93,181,1) 0%, rgba(62,118,203,1) 35%, rgba(207,228,244,1) 100%); 
 margin: auto;
-width: 200px;
+width: 210px;
 position: relative;
 outline: outset 3px blue;
 float: left;
+text-align: center;
+overflow-y: scroll;
+height: 390px;
  } 
  .middle
  {
@@ -95,6 +99,8 @@ float: left;
   position: relative;
   outline: groove 3px rgb(214, 0, 0);
   float: left;
+  height: 550px;
+  overflow-y: auto
 }
 .cc
 {
@@ -142,7 +148,7 @@ float: left;
 .paypal
 {
   margin: auto;
-  top: 70px;
+  top: 64px;
   position: relative;
   float: left;
   left: 40px;
@@ -159,22 +165,32 @@ float: left;
 {
   margin: auto;
   top: 80px;
-  left: 50px;
-  width: 367px;
+  left: 60px;
   height: 136px;
   background: rgb(255, 255, 255);
   position: relative;
   float: left;
   outline: inset 3px rgb(255, 251, 0);
 }
-.working
+.name3d
 {
   margin: auto;
-  top: 40px;
-  left: -3px;
+  top: 90px;
+  left: -20px;
+  width: 220px;
+  text-align: center;
+  height: 120px;
+  position: relative;
+  float: left;
+  overflow-y: scroll;
+}
+.cool
+{
+  margin: auto;
+  top: 170px;
+  left: 105px;
   width: 660px;
   height: 22px;
   position: relative;
   float: left;
-  text-align: center;
 }
