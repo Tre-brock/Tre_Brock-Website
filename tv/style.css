@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    color: white;
+  }
+p {
+    text-align: center;
+    color: white;
+  }
+.tv
+  {
+   margin: auto;
+   width: 600px;
+   height: 609px;
+   position: relative;
+   align-self: center;
+   z-index: 2;
+  }
+  .tv-screen
+  {
+    margin: auto;
+    width: 480px;
+    height: 360px;
+    position: absolute;
+    top: 55px;
+    left: 60px;
+    z-index: -1;
+ } 
+ .shows
+  {
+    display: flex;
+    justify-content: center;
+  } 
