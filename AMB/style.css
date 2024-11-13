@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(31, 12, 12);
+    font-family: serif;
+    font-size: 16px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}    
+.intro {
+    width: 600px;
+    height: 227px;
+    background-color: white;
+    position: relative;
+    margin: auto;
+    display:flex;
+    border: red 3px inset;
+}
