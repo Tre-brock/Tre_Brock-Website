@@ -31,5 +31,5 @@ p {
     background-color: rgb(255, 238, 0);
     position: relative;
     margin: auto;
-    border: rgb(0, 60, 255) 3px outset;
+    border: red 3px outset;
 }
