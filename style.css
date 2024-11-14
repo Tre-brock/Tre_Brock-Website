@@ -82,16 +82,6 @@ height: 390px;
   position: relative;
   float: left;
 }
-.font
-{
-  background-color: aquamarine;
-  margin: auto;
-  width: 300px;
-  top: 40px;
-  position: relative;
-  outline: groove 3px rgb(214, 0, 185);
-  float: left;
-}
 .tv
 {
   background: url('files/backround1.gif');
@@ -187,7 +177,7 @@ height: 390px;
 .cool
 {
   margin: auto;
-  top: 190px;
+  top: 270px;
   left: -230px;
   width: 73px;
   height: 22px;
@@ -215,4 +205,15 @@ height: 390px;
   position: relative;
   float: left;
   outline: outset 3px rgb(255, 0, 34);
+}
+.amb
+{
+  margin: auto;
+  top: 20px;
+  left: 10px;
+  width: 168px;
+  background: rgb(255, 0, 0);
+  position: relative;
+  float: left;
+  outline: dashed 3px rgb(17, 0, 255);
 }
