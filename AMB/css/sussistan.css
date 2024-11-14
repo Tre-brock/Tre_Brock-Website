@@ -33,7 +33,7 @@ p {
 .laws {
     top: 70px;
     height: 410px;
-    left: 50px;
+    left: 20px;
     position: relative;
     width: 300px;
     outline: groove 8px rgb(107, 107, 107);
@@ -41,7 +41,7 @@ p {
 }
 .discord {
     top: -360px;
-    left: 400px;
+    left: 370px;
     height: 410px;
     position: relative;
     width: 300px;
@@ -50,7 +50,7 @@ p {
 }
 .info {
     top: -790px;
-    left: 750px;
+    left: 720px;
     height: 410px;
     position: relative;
     width: 300px;
