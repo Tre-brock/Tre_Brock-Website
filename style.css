@@ -178,7 +178,7 @@ height: 390px;
 {
   margin: auto;
   top: 270px;
-  left: -230px;
+  left: -100px;
   width: 73px;
   height: 22px;
   position: relative;
@@ -210,8 +210,8 @@ height: 390px;
 {
   margin: auto;
   top: 20px;
-  left: 10px;
-  width: 168px;
+  left: 3px;
+  width: 250px;
   background: rgb(255, 0, 0);
   position: relative;
   float: left;
