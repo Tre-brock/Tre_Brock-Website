@@ -23,6 +23,10 @@ h3 {
   text-align: center;
   color: rgb(0, 0, 0)
 }
+h4 {
+  text-align: right;
+  color: rgb(0, 0, 0)
+}
 p
   { 
     text-align: center;
@@ -210,10 +214,22 @@ height: 390px;
 {
   margin: auto;
   top: 20px;
-  left: 3px;
+  left: 1px;
   width: 250px;
-  background: rgb(255, 0, 0);
+  background: rgb(53, 0, 0);
   position: relative;
   float: left;
   outline: dashed 3px rgb(17, 0, 255);
+}
+.user
+{
+  margin: auto;
+  top: 40px;
+  width: 247px;
+  right: -3px;
+  background: #0d1117;
+  position: relative;
+  float: left;
+  border-radius: 15px;
+  outline: outset 2px #3d444d;
 }
