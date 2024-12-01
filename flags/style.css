@@ -12,3 +12,7 @@ table, th, td {
     border-collapse: collapse;
     margin: auto;
   }
+mark {
+ color: rgb(10, 19, 29);
+ background-color: rgb(10, 19, 29);
+}
