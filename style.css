@@ -216,7 +216,7 @@ height: 390px;
   top: 20px;
   left: 1px;
   width: 250px;
-  background: rgb(53, 0, 0);
+  background: rgb(110, 0, 0);
   position: relative;
   float: left;
   outline: dashed 3px rgb(17, 0, 255);
@@ -232,4 +232,8 @@ height: 390px;
   float: left;
   border-radius: 15px;
   outline: outset 2px #3d444d;
+}
+a:link {
+  color: rgb(142, 0, 0);
+  background-color: transparent;
 }
