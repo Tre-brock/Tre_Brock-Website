@@ -74,6 +74,7 @@ height: 390px;
   background: #fbff00;
   margin: auto;
   width: 200px;
+  left: 5px;
   outline: ridge 3px rgb(0, 0, 0);
   position: relative;
   float: left;
@@ -132,7 +133,7 @@ height: 390px;
 {
   margin: auto;
   top: 90px;
-  left: 45px;
+  left: 50px;
   width: 150px;
   background: rgb(121,74,255);
   background: linear-gradient(180deg, rgba(121,74,255,1) 0%, rgba(145,115,255,1) 47%, rgba(188,164,255,1) 100%);   position: relative;
@@ -191,13 +192,11 @@ height: 390px;
 .want
 {
   margin: auto;
-  top: 60px;
+  top: 70px;
   left: 20px;
   width: 168px;
-  background: rgb(113, 255, 121);
   position: relative;
   float: left;
-  outline: inset 3px rgb(136, 0, 255);
 }
 .countries
 {
