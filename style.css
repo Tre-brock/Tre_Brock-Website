@@ -93,7 +93,7 @@ height: 390px;
   margin: auto;
   width: 200px;
   position: relative;
-  outline: groove 3px rgb(214, 0, 0);
+  outline: groove 3px #ffff00;
   float: left;
   height: 470px;
 }
