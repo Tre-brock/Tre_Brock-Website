@@ -125,6 +125,7 @@ height: 390px;
   top: 30px;
   left: 41px;
   width: 125px;
+  height: 40px;
   position: relative;
   float: left;
   outline: groove 3px #03261d;
@@ -192,7 +193,7 @@ height: 390px;
 .want
 {
   margin: auto;
-  top: 70px;
+  top: 60px;
   left: 20px;
   width: 168px;
   position: relative;
@@ -229,7 +230,7 @@ height: 390px;
   background: #0d1117;
   position: relative;
   float: left;
-  border-radius: 15px;
+  border-radius: 10px;
   outline: outset 2px #3d444d;
 }
 a:link {
