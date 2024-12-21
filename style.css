@@ -237,3 +237,14 @@ a:link {
   color: rgb(142, 0, 0);
   background-color: transparent;
 }
+.Breakaway
+{
+  margin: auto;
+  top: 130px;
+  left: 55px;
+  width: 130px;
+  background: white;
+  position: relative;
+  float: left;
+  outline: dashed 3px #e40310;
+}
