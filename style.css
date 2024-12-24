@@ -247,3 +247,23 @@ a:link {
   float: left;
   outline: dashed 3px #e40310;
 }
+.golf
+{
+  margin: auto;
+  top: 120px;
+  left: -10px;
+  width: 130px;
+  background: url(files/grass.gif);
+  position: relative;
+  float: left;
+  outline: inset 3px #707070;
+}
+.rotate
+{
+  margin: auto;
+  top: -100px;
+  left: 145px;
+  width: 130px;
+  position: relative;
+  float: left;
+}
