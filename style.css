@@ -261,7 +261,7 @@ a:link {
 .rotate
 {
   margin: auto;
-  top: -100px;
+  top: -70px;
   left: 145px;
   width: 130px;
   position: relative;
@@ -270,7 +270,7 @@ a:link {
 .top
 {
   margin: auto;
-  top: 300px;
+  top: 330px;
   left: 50px;
   width: 100px;
   position: relative;
@@ -281,7 +281,10 @@ a:link {
   margin: auto;
   top: 60px;
   left: 3px;
-  width: 100px;
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+  outline: inset 3px black;
   position: relative;
   float: left;
 }
