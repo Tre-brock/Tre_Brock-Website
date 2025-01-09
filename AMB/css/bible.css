@@ -15,3 +15,7 @@ p {
     color: rgb(0, 0, 0);
     text-align: left;
 }    
+img {
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+  }

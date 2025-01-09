@@ -12,3 +12,6 @@ h2 {
 p {
     color: crimson;
 }
+img {
+    image-rendering: crisp-edges;
+  }

@@ -20,6 +20,8 @@ p {
   }
   .tv-screen
   {
+    image-rendering: crisp-edges;
+
     margin: auto;
     width: 480px;
     height: 360px;

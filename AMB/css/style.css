@@ -47,3 +47,7 @@ p {
     position: absolute;
     margin: auto;
 }
+img {
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+  }

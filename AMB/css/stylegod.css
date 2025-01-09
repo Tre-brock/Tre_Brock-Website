@@ -43,3 +43,6 @@ p {
     top: -263px;
     left: 90px;
 }
+img {
+    image-rendering: crisp-edges;
+  }
