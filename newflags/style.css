@@ -6,6 +6,8 @@ body {
 h1 {
     color: white;
     text-align: center;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
 }  
 h3 {
     color: white;
@@ -14,4 +16,6 @@ h3 {
 p {
     color: rgb(0, 255, 234);
     text-align: center;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
 }    

@@ -57,3 +57,7 @@ p {
     outline: groove 8px rgb(107, 107, 107);
     background-color: rgb(23, 138, 48);
 }
+img {
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}

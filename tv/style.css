@@ -21,7 +21,7 @@ p {
   .tv-screen
   {
     image-rendering: crisp-edges;
-
+    image-rendering: pixelated;
     margin: auto;
     width: 480px;
     height: 360px;
@@ -34,9 +34,4 @@ p {
   {
     display: flex;
     justify-content: center;
-  } 
-  .showsrow2
-  {
-    display: flex;
-    justify-content: center;
-  } 
+    }
