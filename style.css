@@ -202,7 +202,7 @@ height: 390px;
 {
   margin: auto;
   top: 90px;
-  left: 0px;
+  right: -32px;
   width: 168px;
   background: rgb(113, 158, 255);
   position: relative;
@@ -261,8 +261,8 @@ a:link {
 .rotate
 {
   margin: auto;
-  top: -70px;
-  left: 145px;
+  top: -80px;
+  left: 160px;
   width: 130px;
   position: relative;
   float: left;
