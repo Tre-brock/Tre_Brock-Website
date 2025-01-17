@@ -292,3 +292,16 @@ img {
   image-rendering: crisp-edges;
   image-rendering: pixelated;
 }
+.usb
+{
+  margin: auto;
+  top:-10px;
+  left: 90px;
+  width: 330px;
+  height: 80px;
+  border-radius: 5px;
+  outline: inset 3px rgb(94, 22, 22);
+  position: relative;
+  float: left;
+  background-color: #16e4b0;
+}
