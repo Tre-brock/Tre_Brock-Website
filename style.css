@@ -24,7 +24,7 @@ h3 {
   color: rgb(0, 0, 0)
 }
 h4 {
-  text-align: right;
+  text-align: center;
   color: rgb(0, 0, 0)
 }
 p
@@ -104,10 +104,10 @@ height: 390px;
   position: relative;
   float: right;
 }
-.gnu
+.button
 {
   margin: auto;
-  top: 76px;
+  top: 20px;
   position: relative;
   float: right;
 }
@@ -152,7 +152,7 @@ height: 390px;
 .powerdeb
 {
   margin: auto;
-  top: 42px;
+  top: 47px;
   position: relative;
   left: -5px;
   float: left;
@@ -171,7 +171,7 @@ height: 390px;
 .name3d
 {
   margin: auto;
-  top: 70px;
+  top: 50px;
   left: -20px;
   width: 220px;
   text-align: center;
@@ -201,7 +201,7 @@ height: 390px;
 .countries
 {
   margin: auto;
-  top: 90px;
+  top: 70px;
   right: -32px;
   width: 168px;
   background: rgb(113, 158, 255);
@@ -250,7 +250,7 @@ a:link {
 .golf
 {
   margin: auto;
-  top: 120px;
+  top: 100px;
   left: -10px;
   width: 130px;
   background: url(files/grass.gif);
@@ -261,7 +261,7 @@ a:link {
 .rotate
 {
   margin: auto;
-  top: -80px;
+  top: -90px;
   left: 160px;
   width: 130px;
   position: relative;
@@ -270,7 +270,7 @@ a:link {
 .top
 {
   margin: auto;
-  top: 360px;
+  top: 450px;
   left: 50px;
   width: 100px;
   position: relative;
@@ -292,13 +292,13 @@ img {
   image-rendering: crisp-edges;
   image-rendering: pixelated;
 }
-.usb
+.tools
 {
   margin: auto;
   top:-10px;
   left: 90px;
   width: 330px;
-  height: 80px;
+  height: auto;
   border-radius: 5px;
   outline: inset 3px rgb(94, 22, 22);
   position: relative;
