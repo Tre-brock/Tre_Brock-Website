@@ -34,7 +34,7 @@ p
   }
 mark
   { 
-    background-color: #00ffe8;
+    background-color: #00d3c1;
   }
 .container {
     margin: auto;
@@ -89,8 +89,8 @@ height: 390px;
 }
 .tv
 {
-  background: url('files/backround1.gif');
-  margin: auto;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+  url("files/backround1.gif");  margin: auto;
   width: 200px;
   position: relative;
   outline: groove 3px #ffff00;
