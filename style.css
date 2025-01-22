@@ -107,7 +107,7 @@ height: 390px;
 .button
 {
   margin: auto;
-  top: 20px;
+  top: 27px;
   position: relative;
   float: right;
 }
@@ -152,7 +152,8 @@ height: 390px;
 .powerdeb
 {
   margin: auto;
-  top: 47px;
+  top: 35px;
+  width: 102px;
   position: relative;
   left: -5px;
   float: left;
@@ -171,7 +172,7 @@ height: 390px;
 .name3d
 {
   margin: auto;
-  top: 50px;
+  top: 55px;
   left: -20px;
   width: 220px;
   text-align: center;
@@ -261,9 +262,9 @@ a:link {
 .rotate
 {
   margin: auto;
-  top: -90px;
-  left: 160px;
-  width: 130px;
+  top: 100px;
+  left: 30px;
+  width: 8px;
   position: relative;
   float: left;
 }
