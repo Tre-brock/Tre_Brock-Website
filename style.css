@@ -193,12 +193,13 @@ height: 390px;
 .want
 {
   margin: auto;
-  top: 60px;
-  left: 20px;
-  width: 180px;
+  top: 50px;
+  left: 15px;
+  width: 179px;
   position: relative;
   float: left;
 }
+
 .countries
 {
   margin: auto;
