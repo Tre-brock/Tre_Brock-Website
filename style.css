@@ -107,9 +107,13 @@ height: 390px;
 .button
 {
   margin: auto;
-  top: 27px;
+  top: 20px;
+  height: 130px;
   position: relative;
   float: right;
+  outline: groove 2px #000000;
+  background-color: #707070;
+
 }
 .apps
 {
@@ -152,7 +156,7 @@ height: 390px;
 .powerdeb
 {
   margin: auto;
-  top: 35px;
+  top: 45px;
   width: 102px;
   position: relative;
   left: -5px;
