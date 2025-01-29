@@ -108,7 +108,7 @@ height: 390px;
 {
   margin: auto;
   top: 20px;
-  height: 130px;
+  height: 136px;
   width: 88px;
   position: relative;
   float: right;
@@ -149,15 +149,17 @@ height: 390px;
 .paypal
 {
   margin: auto;
-  top: 94px;
+  top: 110px;
   position: relative;
   float: left;
-  left: 40px;
+  left: 70px;
+  width: 110px;
+  word-wrap: break-word;
 }
 .powerdeb
 {
   margin: auto;
-  top: 45px;
+  top: 46px;
   width: 102px;
   position: relative;
   left: -5px;
@@ -166,8 +168,8 @@ height: 390px;
 .box
 {
   margin: auto;
-  top: 105px;
-  left: 60px;
+  top: 125px;
+  left: 67.5px;
   height: 136px;
   background: rgb(255, 255, 255);
   position: relative;
@@ -246,7 +248,7 @@ a:link {
 .Breakaway
 {
   margin: auto;
-  top: 130px;
+  top: 150px;
   left: 55px;
   width: 130px;
   background: white;
@@ -302,7 +304,7 @@ img {
 .tools
 {
   margin: auto;
-  top: 10px;
+  top: -10px;
   left: 90px;
   width: 330px;
   height: auto;
