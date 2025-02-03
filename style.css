@@ -95,7 +95,7 @@ height: 390px;
   position: relative;
   outline: groove 3px #ffff00;
   float: left;
-  height: 470px;
+  height: 430px;
 }
 .cc
 {
@@ -104,17 +104,18 @@ height: 390px;
   position: relative;
   float: right;
 }
-.button
+.new
 {
   margin: auto;
-  top: 20px;
-  height: 136px;
-  width: 88px;
+  top: 40px;
+  right: 10px;
+  height: 54px;
+  width: 54px;
   position: relative;
   float: right;
   outline: groove 2px #000000;
-  background-color: #707070;
-
+  background-color: #ffffff;
+  font-size: 0px;
 }
 .apps
 {
@@ -159,7 +160,8 @@ height: 390px;
 .powerdeb
 {
   margin: auto;
-  top: 46px;
+  top: 30px;
+  height: 70px;
   width: 102px;
   position: relative;
   left: -5px;
