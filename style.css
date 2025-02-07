@@ -142,6 +142,7 @@ height: 390px;
   top: 90px;
   left: 50px;
   width: 150px;
+  height: 270px;
   background: rgb(121,74,255);
   background: linear-gradient(180deg, rgba(121,74,255,1) 0%, rgba(145,115,255,1) 47%, rgba(188,164,255,1) 100%);   position: relative;
   float: left;
