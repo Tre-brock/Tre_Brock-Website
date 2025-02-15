@@ -18,9 +18,7 @@ p {
 .story {
     margin: auto;
     width: 360px;
-    padding: 5px;
     height: 580px;
-    background-image: url(/files/oldpaper.png);
 }
 .fire1 {
     margin: auto;
@@ -45,4 +43,5 @@ p {
 }
 img {
     image-rendering: crisp-edges;
+    max-width: 100%;
   }
