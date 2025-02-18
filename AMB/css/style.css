@@ -31,7 +31,9 @@ p {
     margin: auto;
     display:flex;
     border: red 3px inset;
-    
+    overflow: hidden;
+    text-align: center;
+    font-size: 16px;
 }
 .links {
     top: 60px;
@@ -48,7 +50,3 @@ p {
     position: absolute;
     margin: auto;
 }
-img {
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-  }
