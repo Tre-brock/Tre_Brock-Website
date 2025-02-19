@@ -106,15 +106,14 @@ height: 390px;
 .new
 {
   margin: auto;
-  top: 40px;
-  right: 10px;
-  height: 54px;
-  width: 54px;
+  top: 53px;
+  right: 0px;
+  height: 40px;
+  width: 80px;
   position: relative;
   float: right;
   outline: groove 2px #000000;
   background-color: #ffffff;
-  font-size: 0px;
 }
 .apps
 {
@@ -219,6 +218,11 @@ height: 390px;
   position: relative;
   float: left;
   outline: outset 3px rgb(255, 0, 34);
+  
+}
+.countries a:link
+ { 
+  color: #ff0000; 
 }
 .amb
 {
@@ -242,10 +246,6 @@ height: 390px;
   float: left;
   border-radius: 10px;
   outline: outset 2px #3d444d;
-}
-a:link {
-  color: rgb(142, 0, 0);
-  background-color: transparent;
 }
 .Breakaway
 {
@@ -315,4 +315,8 @@ img {
   position: relative;
   float: left;
   background-color: #16e4b0;
+}
+.tools a:link
+ { 
+  color: #ff0000; 
 }
