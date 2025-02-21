@@ -282,7 +282,7 @@ font-size: 15px;
 .top
 {
   margin: auto;
-  top: 600px;
+  top: 650px;
   left: 50px;
   width: 100px;
   position: relative;
@@ -362,4 +362,17 @@ img {
   background-color: rgb(255, 255, 255);
   outline: inset 3px #ff00d0;
   text-align: center;
+}
+.pvz
+{
+  margin: auto;
+  top: -63px;
+  left: 283px;
+  width: 50px;
+  position: relative;
+  float: left;
+  background-color: rgb(255, 255, 255);
+  outline: outset 3px #f6a12d;
+  text-align: center;
+  font-size: 0px;
 }
