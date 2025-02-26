@@ -366,13 +366,11 @@ img {
 .pvz
 {
   margin: auto;
-  top: -63px;
-  left: 283px;
+  top: -110px;
+  left: -80px;
   width: 50px;
   position: relative;
   float: left;
-  background-color: rgb(255, 255, 255);
-  outline: outset 3px #f6a12d;
   text-align: center;
   font-size: 0px;
 }
