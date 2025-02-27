@@ -58,7 +58,6 @@ position: relative;
 outline: outset 3px blue;
 float: left;
 text-align: center;
-height: 390px;
 font-size: 15px;
  } 
  .middle
@@ -282,7 +281,7 @@ font-size: 15px;
 .top
 {
   margin: auto;
-  top: 650px;
+  top: 600px;
   left: 50px;
   width: 100px;
   position: relative;
