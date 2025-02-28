@@ -281,7 +281,7 @@ font-size: 15px;
 .top
 {
   margin: auto;
-  top: 600px;
+  top: 650px;
   left: 50px;
   width: 100px;
   position: relative;
@@ -372,4 +372,14 @@ img {
   float: left;
   text-align: center;
   font-size: 0px;
+}
+.ff
+{
+  margin: auto;
+  top: 0px;
+  right: -70px;
+  position: relative;
+  float: left;
+  text-align: center;
+  font-size: 0;
 }
