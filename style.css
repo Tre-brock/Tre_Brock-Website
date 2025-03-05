@@ -374,3 +374,15 @@ img {
   text-align: center;
   font-size: 0px;
 }
+.Alphabet
+{
+  margin: auto;
+  top: 5px;
+  left: -10px;
+  width: 200px;
+  position: relative;
+  float: left;
+  outline: outset 3px rgb(0, 0, 0);
+  background-image: url(files/bgal.gif);
+  text-align: center;
+}
