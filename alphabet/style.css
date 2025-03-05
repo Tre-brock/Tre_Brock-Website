@@ -1,0 +1,17 @@
+body { 
+    font-family: serif;
+    background-image: url(/files/bgal.gif);
+    font-size: 16px;
+ }     
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+img {
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
