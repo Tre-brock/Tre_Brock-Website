@@ -1,0 +1,10 @@
+table, th, td {
+    border:1px solid black;
+  }
+  img {
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+  }
+  body {
+      background-image: url(/files/bg-money.png);
+  }
