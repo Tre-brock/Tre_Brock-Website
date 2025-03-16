@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -9,29 +10,8 @@ p {
     text-align: center;
     color: white;
   }
-.tv
-  {
-   margin: auto;
-   width: 600px;
-   height: 609px;
-   position: relative;
-   align-self: center;
-   z-index: 2;
-  }
-  .tv-screen
-  {
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    margin: auto;
-    width: 480px;
-    height: 360px;
-    position: absolute;
-    top: 55px;
-    left: 60px;
-    z-index: -1;
- } 
  .shows
   {
     display: flex;
     justify-content: center;
-    }
+  }
