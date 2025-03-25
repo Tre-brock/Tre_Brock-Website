@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="140mm"
-   height="50mm"
-   viewBox="0 0 70 25"
+   width="150mm"
+   height="280mm"
+   viewBox="0 0 75 140"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -25,16 +25,30 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.77894309"
-     inkscape:cx="66.115228"
-     inkscape:cy="-35.946143"
+     inkscape:cx="350.4749"
+     inkscape:cy="320.94771"
      inkscape:window-width="1280"
      inkscape:window-height="731"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showguides="false" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="425.12517"
+       y="398.5054"
+       width="377.06478"
+       height="125.61906"
+       id="rect2267" />
+    <rect
+       x="578.35083"
+       y="440.62508"
+       width="620.61477"
+       height="243.23147"
+       id="rect2261" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -42,14 +56,77 @@
     <text
        xml:space="preserve"
        style="font-size:20.4633px;font-family:P052;-inkscape-font-specification:P052;fill:#ffff00;stroke-width:0.4035;stroke-dasharray:none"
-       x="0.17406206"
+       x="2.3009937"
        y="20.597807"
        id="text234"
        transform="scale(0.99517381,1.0048496)"><tspan
          sodipodi:role="line"
          id="tspan232"
          style="font-size:20.4633px;fill:none;stroke:#ffea00;stroke-width:0.4035;stroke-dasharray:none;stroke-opacity:1"
-         x="0.17406206"
+         x="2.3009937"
          y="20.597807">Contact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:P052;-inkscape-font-specification:P052;fill:none;stroke:#ffea00;stroke-width:0.4035"
+       x="37.229317"
+       y="49.684391"
+       id="text1673"><tspan
+         sodipodi:role="line"
+         id="tspan1671"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.4035;stroke-opacity:1"
+         x="37.229317"
+         y="49.684391">My signal is</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.4035;stroke-opacity:1"
+         x="37.229317"
+         y="60.267727"
+         id="tspan2281"> Tre.99</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.4035;stroke-opacity:1"
+         x="37.229317"
+         y="70.851059"
+         id="tspan2289" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.13229167)"
+       id="text2259"
+       style="font-size:133.333px;font-family:P052;-inkscape-font-specification:P052;text-align:center;white-space:pre;shape-inside:url(#rect2261);display:inline;fill:#000000;stroke:none;stroke-width:3.05008;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.13229167)"
+       id="text2265"
+       style="font-size:85.3333px;font-family:P052;-inkscape-font-specification:P052;text-align:center;white-space:pre;shape-inside:url(#rect2267);display:inline;fill:#000000;stroke:none;stroke-width:3.05008;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:P052;-inkscape-font-specification:P052;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.4035;stroke-opacity:1"
+       x="37.643997"
+       y="77.318993"
+       id="text2312"><tspan
+         sodipodi:role="line"
+         id="tspan2310"
+         style="font-size:8.46667px;stroke-width:0.4035"
+         x="37.643997"
+         y="77.318993">My email is</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;stroke-width:0.4035"
+         x="37.643997"
+         y="87.902328"
+         id="tspan2314">Tre@trebrock.net</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:P052;-inkscape-font-specification:P052;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.4035;stroke-opacity:1"
+       x="37.688198"
+       y="105.29861"
+       id="text2312-3"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;stroke-width:0.4035"
+         x="37.688198"
+         y="105.29861"
+         id="tspan2314-7">My github is</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;stroke-width:0.4035"
+         x="37.688198"
+         y="115.88194"
+         id="tspan2421">Tre-brock</tspan></text>
   </g>
 </svg>
