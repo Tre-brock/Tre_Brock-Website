@@ -21,15 +21,13 @@ ul {
 }  
 p {
     color: rgb(0, 0, 0);
-    text-align: center;
 }    
 .intro {
-    width: 600px;
-    height: 227px;
+    width: 400px;
+    height: 450px;
     background-color: white;
     position: relative;
     margin: auto;
-    display:flex;
     border: red 3px inset;
     overflow: hidden;
     text-align: center;
