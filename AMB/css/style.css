@@ -31,11 +31,11 @@ p {
     border: red 3px inset;
     overflow: hidden;
     text-align: center;
-    font-size: 16px;
+    font-size: 0px;
 }
 .links {
     top: 60px;
-    width: 500px;
+    width: 450px;
     height: 220px;
     background-color: rgb(255, 238, 0);
     position: relative;
