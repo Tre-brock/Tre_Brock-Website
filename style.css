@@ -90,7 +90,9 @@ font-size: 15px;
 .tv
 {
   background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
-  url("files/backround1.gif");  margin: auto;
+  url("files/backround1.gif");
+  margin: auto;
+  background-color: #00ffd5;
   width: 200px;
   position: relative;
   outline: groove 3px #ffff00;
@@ -398,7 +400,6 @@ img {
   width: 88px;
   position: relative;
   float: left;
-  outline: solid 0px #7dcca7;
 }
 .mutt:hover img {
   outline: 1px solid blue;
