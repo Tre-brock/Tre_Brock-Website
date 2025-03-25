@@ -1,7 +1,7 @@
 body {
   background: linear-gradient(138deg, #00ffd4, #00b9ff, #ff00f5, #ff006e, #ffc100);
   background-size: 1000% 1000%;
-  font-family: serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
   animation: Tre 39s ease infinite;
 }
