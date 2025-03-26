@@ -89,10 +89,8 @@ font-size: 15px;
 }
 .tv
 {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
-  url("files/backround1.gif");
+  background-image: url(files/tvbg.svg);
   margin: auto;
-  background-color: #00ffd5;
   width: 200px;
   position: relative;
   outline: groove 3px #ffff00;
@@ -145,7 +143,8 @@ font-size: 15px;
   left: 50px;
   width: 150px;
   background: rgb(121,74,255);
-  background: linear-gradient(180deg, rgba(121,74,255,1) 0%, rgba(145,115,255,1) 47%, rgba(188,164,255,1) 100%);   position: relative;
+  background: linear-gradient(180deg, rgba(121,74,255,1) 0%, rgba(145,115,255,1) 47%, rgba(188,164,255,1) 100%);   
+  position: relative;
   float: left;
   outline: inset 3px rgb(136, 0, 255);
 }
