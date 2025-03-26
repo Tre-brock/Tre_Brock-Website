@@ -173,7 +173,7 @@ font-size: 15px;
 {
   margin: auto;
   top: 115px;
-  left: 67.5px;
+  left: 67px;
   height: 136px;
   background: rgb(255, 255, 255);
   position: relative;
@@ -256,7 +256,7 @@ font-size: 15px;
 {
   margin: auto;
   top: 130px;
-  left: 55px;
+  left: 59px;
   width: 130px;
   background: white;
   position: relative;
@@ -286,7 +286,7 @@ font-size: 15px;
 .top
 {
   margin: auto;
-  top: 700px;
+  top: 600px;
   left: 50px;
   width: 100px;
   position: relative;
