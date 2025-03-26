@@ -4,42 +4,15 @@
    width="660"
    version="1.1"
    id="svg14"
-   sodipodi:docname="newri.svg"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview14"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showguides="true"
-     inkscape:zoom="1.3793103"
-     inkscape:cx="329.875"
-     inkscape:cy="290"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg14" />
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
   <defs
-     id="defs1">
-    <path
-       id="a"
-       transform="matrix(40 0 0 40 0 -205)"
-       d="M0-1 .58779.80902-.95106-.30902H.95106L-.58779.80902z" />
-  </defs>
+     id="defs1" />
   <path
-     style="fill:#fff"
-     d="M0 0h660v580H0z"
+     style="fill:#ffffff"
+     d="M 0,0 H 660 V 580 H 0 Z"
      id="path1" />
   <g
      style="fill:#fec500;stroke-width:1.5"
@@ -59,45 +32,86 @@
        id="path4" />
   </g>
   <g
-     style="fill:#003271;stroke:#fff;stroke-linejoin:round"
-     id="g7" />
-  <g
-     transform="translate(330 290)"
+     transform="translate(330,290)"
      style="fill:#fec500"
      id="g14">
-    <use
-       xlink:href="#a"
-       id="use7" />
+    <path
+       id="use7"
+       d="m 0,-245 23.5116,72.3608 -61.554,-44.7216 h 76.0848 l -61.554,44.7216 z"
+       style="stroke-width:40" />
     <g
        id="b">
-      <use
-         xlink:href="#a"
-         transform="rotate(27.69)"
-         id="use8" />
-      <use
-         xlink:href="#a"
-         transform="rotate(55.38)"
-         id="use9" />
-      <use
-         xlink:href="#a"
-         transform="rotate(83.08)"
-         id="use10" />
-      <use
-         xlink:href="#a"
-         transform="rotate(110.77)"
-         id="use11" />
-      <use
-         xlink:href="#a"
-         transform="rotate(138.46)"
-         id="use12" />
-      <use
-         xlink:href="#a"
-         transform="rotate(166.15)"
-         id="use13" />
+      <path
+         id="use8"
+         d="m 113.84844,-216.94131 -12.80623,74.99921 -33.722946,-68.20323 67.371166,35.35566 -75.286078,10.99647 z"
+         style="stroke-width:40" />
+      <path
+         id="use9"
+         d="m 201.61984,-139.1921 -46.19079,60.459003 1.83237,-76.062863 43.22613,62.613083 -71.77384,-25.247403 z"
+         style="stroke-width:40" />
+      <path
+         id="use10"
+         d="m 243.21526,-29.518425 -69.00092,32.0585987 36.97959,-66.4938097 9.16695,75.530549 -51.81205,-55.717392 z"
+         style="stroke-width:40" />
+      <path
+         id="use11"
+         d="M 229.07781,86.881273 153.08201,83.204487 216.72534,41.50985 189.74435,112.65001 169.75726,39.237255 Z"
+         style="stroke-width:40" />
+      <path
+         id="use12"
+         d="m 162.46998,183.38077 -65.583812,-38.57 75.729542,-7.34529 -56.94894,50.45509 16.41593,-74.29289 z"
+         style="stroke-width:40" />
+      <path
+         id="use13"
+         d="m 58.648306,237.87681 -40.149807,-64.62874 70.469858,28.68651 -73.872692,18.21324 49.05887,-58.1562 z"
+         style="stroke-width:40" />
     </g>
-    <use
-       xlink:href="#b"
-       transform="scale(-1 1)"
-       id="use14" />
+    <g
+       id="use14"
+       transform="scale(-1,1)">
+      <path
+         id="path317"
+         d="m 113.84844,-216.94131 -12.80623,74.99921 -33.722946,-68.20323 67.371166,35.35566 -75.286078,10.99647 z"
+         style="stroke-width:40" />
+      <path
+         id="path319"
+         d="m 201.61984,-139.1921 -46.19079,60.459003 1.83237,-76.062863 43.22613,62.613083 -71.77384,-25.247403 z"
+         style="stroke-width:40" />
+      <path
+         id="path321"
+         d="m 243.21526,-29.518425 -69.00092,32.0585987 36.97959,-66.4938097 9.16695,75.530549 -51.81205,-55.717392 z"
+         style="stroke-width:40" />
+      <path
+         id="path323"
+         d="M 229.07781,86.881273 153.08201,83.204487 216.72534,41.50985 189.74435,112.65001 169.75726,39.237255 Z"
+         style="stroke-width:40" />
+      <path
+         id="path325"
+         d="m 162.46998,183.38077 -65.583812,-38.57 75.729542,-7.34529 -56.94894,50.45509 16.41593,-74.29289 z"
+         style="stroke-width:40" />
+      <path
+         id="path327"
+         d="m 58.648306,237.87681 -40.149807,-64.62874 70.469858,28.68651 -73.872692,18.21324 49.05887,-58.1562 z"
+         style="stroke-width:40" />
+    </g>
   </g>
+  <metadata
+     id="metadata331">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
