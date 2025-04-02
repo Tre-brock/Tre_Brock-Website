@@ -55,7 +55,7 @@ mark
   margin: auto;
   width: 210px;
   position: relative;
-  outline: outset 3px blue;
+  border: outset 3px blue;
   float: left;
   text-align: center;
   font-size: 15px;
@@ -74,7 +74,7 @@ mark
   margin: auto;
   width: 200px;
   left: 5px;
-  outline: ridge 3px rgb(0, 0, 0);
+  border: ridge 3px rgb(0, 0, 0);
   position: relative;
   float: left;
  }  
@@ -92,7 +92,7 @@ mark
   margin: auto;
   width: 200px;
   position: relative;
-  outline: groove 3px #ffff00;
+  border: groove 3px #ffff00;
   float: left;
 }
 .cc
@@ -102,15 +102,15 @@ mark
   position: relative;
   float: right;
 }
-.new
+.source
 {
   margin: auto;
-  top: 53px;
+  top: 50px;
   right: -6px;
   width: 80px;
   position: relative;
   float: right;
-  outline: groove 2px #000000;
+  border: groove 2px #000000;
   background-color: #ffffff;
 }
 .apps
@@ -130,7 +130,7 @@ mark
   height: 40px;
   position: relative;
   float: left;
-  outline: groove 3px #03261d;
+  border: groove 3px #03261d;
   font-size: 0px;
 }
 .contact
@@ -138,14 +138,14 @@ mark
   margin: auto;
   text-align: center;
   top: 80px;
-  height: 260px;
+  height: 263px;
   left: 50px;
-  width: 150px;
+  width: 153px;
   background: rgb(121,74,255);
   background: linear-gradient(180deg, rgba(121,74,255,1) 0%, rgba(145,115,255,1) 47%, rgba(188,164,255,1) 100%);   
   position: relative;
   float: left;
-  outline: inset 3px rgb(136, 0, 255);
+  border: inset 3px rgb(136, 0, 255);
 }
 .paypal
 {
@@ -167,16 +167,16 @@ mark
   left: -5px;
   float: left;
 }
-.box
+.mii
 {
   margin: auto;
   top: 115px;
   left: 67px;
-  height: 136px;
+  height: 139px;
   background: rgb(255, 255, 255);
   position: relative;
   float: left;
-  outline: inset 3px rgb(0, 132, 255);
+  border: inset 3px rgb(0, 132, 255);
   font-size: 0px;
 }
 .name3d
@@ -219,7 +219,7 @@ mark
   background: rgb(113, 158, 255);
   position: relative;
   float: left;
-  outline: outset 3px rgb(255, 0, 34);
+  border: outset 3px rgb(255, 0, 34);
   
 }
 .countries a:link
@@ -235,7 +235,7 @@ mark
   background: rgb(110, 0, 0);
   position: relative;
   float: left;
-  outline: dashed 3px rgb(17, 0, 255);
+  border: inset 3px rgb(17, 0, 255);
   text-align: center;
 }
 .user
@@ -247,7 +247,7 @@ mark
   background: #0d1117;
   position: relative;
   float: left;
-  outline: outset 2px #3d444d;
+  border: outset 2px #3d444d;
   border-radius: 10px;
 }
 .Breakaway
@@ -259,18 +259,18 @@ mark
   background: white;
   position: relative;
   float: left;
-  outline: dashed 3px #e40310;
+  border: dashed 3px #e40310;
 }
 .golf
 {
   margin: auto;
   top: 100px;
   left: -10px;
-  width: 130px;
+  width: 133px;
   background: url(files/grass.gif);
   position: relative;
   float: left;
-  outline: inset 3px #707070;
+  border: inset 3px #707070;
 }
 .rotate
 {
@@ -297,7 +297,7 @@ mark
   left: 3px;
   width: 70px;
   height: 70px;
-  outline: inset 3px black;
+  border: inset 3px black;
   position: relative;
   float: left;
   font-size: 0px;
@@ -314,7 +314,7 @@ img {
   left: 90px;
   width: 330px;
   height: auto;
-  outline: inset 3px rgb(94, 22, 22);
+  border: inset 3px rgb(94, 22, 22);
   position: relative;
   float: left;
   background-color: #c7caff;
@@ -329,10 +329,10 @@ img {
   margin: auto;
   top: -25px;
   left: -10px;
-  width: 130px;
+  width: 133px;
   position: relative;
   float: left;
-  outline: inset 3px yellow;
+  border: inset 3px yellow;
   background-color: red;
   color: yellow;
   text-align: center;
@@ -346,23 +346,23 @@ img {
   height: 75px;
   position: relative;
   float: left;
-  outline: outset 1px #06a097;
+  border: outset 1px #06a097;
   font-size: 0px;
 }
 .gar img
 {
   image-rendering: initial;
 }
-.pro
+.flags
 {
   margin: auto;
-  top: -63px;
+  top: -67px;
   left: 255px;
   width: 80px;
   position: relative;
   float: left;
   background-color: rgb(255, 255, 255);
-  outline: inset 3px #ff00d0;
+  border: inset 3px #ff00d0;
   text-align: center;
 }
 .pvz
@@ -385,10 +385,10 @@ img {
   margin: auto;
   top: 5px;
   left: -10px;
-  width: 200px;
+  width: 203px;
   position: relative;
   float: left;
-  outline: outset 3px rgb(0, 0, 0);
+  border: outset 3px rgb(0, 0, 0);
   background-image: url(files/bgal.gif);
   text-align: center;
 }
@@ -396,7 +396,7 @@ img {
 {
   margin: auto;
   top: 30px;
-  left: -13px;
+  left: -10px;
   font-size: 0px;
   height: 31px;
   width: 88px;
