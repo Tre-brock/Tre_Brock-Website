@@ -14,16 +14,12 @@ h3 {
 h5 {
     color: white;
     text-align: left;
-}  
-ul {
-    color: rgb(0, 255, 234);
-    text-align: center;
-}  
+}
 p {
     color: rgb(0, 0, 0);
 }    
 .intro {
-    width: 400px;
+    display: inline-block;
     height: 450px;
     background-color: white;
     position: relative;
@@ -32,9 +28,11 @@ p {
     overflow: hidden;
     text-align: center;
     font-size: 0px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 .links {
-    top: 60px;
+    top: 40px;
     width: 450px;
     height: 220px;
     background-color: rgb(255, 238, 0);
@@ -42,9 +40,8 @@ p {
     margin: auto;
     border: red 3px outset;
 }
-.paint {
-    top: 0px;
-    right: 0px;
-    position: absolute;
-    margin: auto;
+.links img {
+     position: absolute;
+     right: 0;
+     top: 0;
 }
