@@ -20,12 +20,10 @@ p {
 }    
 .intro {
     display: inline-block;
-    height: 450px;
     background-color: white;
     position: relative;
     margin: auto;
     border: red 3px inset;
-    overflow: hidden;
     text-align: center;
     font-size: 0px;
     left: 50%;
