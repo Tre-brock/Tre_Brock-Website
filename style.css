@@ -40,14 +40,31 @@ mark
 .container {
     margin: auto;
     width: 660px;
+    text-align: center;
   }
- .left
+.left
   {
     margin: auto;
     width: 196px;
     position: relative;
     float: left;
   }
+.middle
+ {
+  margin: auto;
+  left: 30px;
+  width: 196px;
+  position: relative;
+  float: left;
+ } 
+ .right
+{
+  left: 60px;
+  margin: auto;
+  width: 196px;
+  position: relative;
+  float: left;
+}
 .laptop
  {
   background: rgb(50,93,181);
@@ -60,15 +77,7 @@ mark
   text-align: center;
   font-size: 15px;
  } 
- .middle
- {
-  margin: auto;
-  left: 30px;
-  width: 196px;
-  position: relative;
-  float: left;
- } 
- .enjoy
+.enjoy
  {
   background: #fbff00;
   margin: auto;
@@ -78,14 +87,6 @@ mark
   position: relative;
   float: left;
  }  
- .right
-{
-  left: 60px;
-  margin: auto;
-  width: 196px;
-  position: relative;
-  float: left;
-}
 .tv
 {
   background-image: url(files/tvbg.svg);

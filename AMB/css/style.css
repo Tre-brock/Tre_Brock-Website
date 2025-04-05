@@ -35,6 +35,7 @@ p {
     position: relative;
     margin: auto;
     border: red 3px outset;
+    overflow: hidden;
 }
 .links img {
      position: absolute;
