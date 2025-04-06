@@ -111,6 +111,7 @@ mark
   width: 80px;
   position: relative;
   float: right;
+  text-align: left;
   border: groove 2px #000000;
   background-color: #ffffff;
 }
