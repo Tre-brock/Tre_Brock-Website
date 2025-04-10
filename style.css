@@ -408,3 +408,15 @@ img {
 .mutt:hover img {
   outline: 1px solid blue;
 }
+.valid
+{
+  margin: auto;
+  top: 30px;
+  left: 22px;
+  font-size: 0px;
+  height: 93px;
+  width: 88px;
+  position: relative;
+  float: left;
+  background-color: #000000;
+}
