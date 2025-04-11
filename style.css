@@ -168,6 +168,7 @@ mark
   position: relative;
   left: -5px;
   float: left;
+  text-align: left;
 }
 .mii
 {
