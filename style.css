@@ -268,8 +268,8 @@ mark
 {
   margin: auto;
   top: 100px;
-  left: -10px;
-  width: 133px;
+  left: 20px;
+  width: 150px;
   background: url(files/grass.gif);
   position: relative;
   float: left;
@@ -327,19 +327,6 @@ img {
  { 
   color: #ff0000; 
 }
-.soc
-{
-  margin: auto;
-  top: -25px;
-  left: -10px;
-  width: 133px;
-  position: relative;
-  float: left;
-  border: inset 3px yellow;
-  background-color: red;
-  color: yellow;
-  text-align: center;
-}
 .gar
 {
   margin: auto;
@@ -386,8 +373,8 @@ img {
 .Alphabet
 {
   margin: auto;
-  top: 5px;
-  left: -10px;
+  top: 120px;
+  left: -3px;
   width: 203px;
   position: relative;
   float: left;
@@ -398,7 +385,7 @@ img {
 .valid
 {
   margin: auto;
-  top: 30px;
+  top: 140px;
   left: 110px;
   width: 88px;
   position: relative;
